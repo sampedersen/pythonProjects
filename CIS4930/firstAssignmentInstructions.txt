@@ -1,0 +1,12 @@
+Part 1:
+  - Use these resources for reference:
+    https://www.w3schools.com/python/python_conditions.asp
+    https://www.w3schools.com/python/python_functions.asp
+    https://www.w3schools.com/python/python_strings_concatenate.asp
+    https://www.w3schools.com/python/python_numbers.asp
+Part 2: 
+  - Answer the questions contained within the comments (#) of the template (see below) 
+Part 3: 
+  - Using template.py as a starting-point, complete the script so that it will work as intended.
+  - Define the five functions declared in the assignment (complete everything marked TODO)
+  - You are only allowed to use conditionals and selection instructions. 
