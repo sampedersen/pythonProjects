@@ -1,0 +1,7 @@
+Part 1:
+  - Refer to chapter 6.1 and 6.2 of "Python: An Introduction to Programming" (Parker)
+    
+Part 2: 
+  - Using assignment2Template.py, complete the script so the program works as intended. 
+  - Define the five functions declared w/in the assignment and complete all the TODO
+  - Use for loops and while loops as desired 
