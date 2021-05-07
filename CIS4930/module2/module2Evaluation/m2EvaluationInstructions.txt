@@ -1,0 +1,6 @@
+Part 1:
+  - Use lecture notes to complete the following task.
+    
+Part 2: 
+  - Following the instructions from lecture, create a binary search tree (BST) 
+  - BST needs to follow the design corresponding to the explained UML diagram 
