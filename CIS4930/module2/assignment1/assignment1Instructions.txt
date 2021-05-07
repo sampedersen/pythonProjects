@@ -1,0 +1,10 @@
+Part 1:
+  - Build upon the m1EvaluationSubmission.py file and extend the script to meet the following requirements:
+  - Requirements must be met using strictly recursion.
+  - Req 1: 
+    Re-build a function that counts the number of times an input number is contained within the list of numbers. 
+    Users should read the message "The number <<input>> apeears <<output>> numbers of times in the list." 
+  - Req 2: 
+    Re-build a function that returns the most repeated number in the list of numbers. 
+    The user should read the message "The most repeated number in the list of numbers is <<output>>"
+    
