@@ -1,0 +1,24 @@
+Part 1:
+  - Use the following resources:
+    - Section 6.3 of "Python: An Introduction to Programming" (Parker(
+    - https://www.w3schools.com/python/python_inheritance.asp
+    
+Part 2: 
+  - Build upon the assignment2Submission.py and extend the script to meet the following requirements:
+  - Req 1:
+    Build a function that counts the number of times a certain input number is in the list of numbers. 
+    User should read an output message of "The number <<input>> appear <<output>> times in the list."
+    Function's declaration must be: 
+      def countExistence(pNumber)
+  - Req 2:
+    Build a function that returns the most repeated number within the list of numbers. 
+    User should read an output message of "The most repeated number in the list of numbers is: <<output>>"
+    Function's declaration must be:
+      def findMostRepeatedNumber()
+  - Req 3: 
+    Build a function that finds and deletes a colleague from the list given an input name. 
+    If the colleague is contained within the list, he/she is removed.
+    User should read an output message of "Your colleague, <<name>>, who is <<age>> years old, was successfully removed".
+    Otherwise, the user should read the message "The colleague was not removed, as he/she does not exist in the list"
+    Function's declaration must be:
+      def removeColleague(pName)
