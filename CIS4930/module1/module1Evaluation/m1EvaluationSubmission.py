@@ -1,4 +1,4 @@
-#####################################################             Assignment 2:              #############################################################################
+#####################################################             Module 1 Evaluation:              #############################################################################
   """ Using the global variables provided in this template, complete the definitions of the functions declared below"""
 
 # Imported libraries
